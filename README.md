@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💻 Ayushi  
-📧 toayushikashyap@gmail.com | 📞 (+91) 7858849788  
+📧 toayushikashyap@gmail.com | 
 🔗 [GitHub](https://github.com/ayushi_github) | 🔗 [LinkedIn](https://linkedin.com/in/ayushi_linkedin)  
 
 ---
