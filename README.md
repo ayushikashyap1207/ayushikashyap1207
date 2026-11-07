@@ -1,11 +1,10 @@
 <div align="center">
 
 <img
-  src="./banner.jpg"
-  width="100%"
-  height="250"
-  alt="Ayushi's GitHub Banner"
-/>
+    src="./banner.jpg"
+    width="100%"
+    alt="Ayushi's GitHub Banner"
+  />
 
 # Hi, I'm Ayushi 👋
 
