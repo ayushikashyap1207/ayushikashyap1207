@@ -1,10 +1,6 @@
 <div align="center">
 
-<img
-    src="./banner.jpg"
-    width="100%"
-    alt="Ayushi's GitHub Banner"
-  />
+<img src="https://github.com/ayushikashyap1207.png?size=400" width="160" height="160" alt="Ayushi's profile photo" />
 
 # Hi, I'm Ayushi 👋
 
