@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="Human after all 🤷.png…]()
-" width="100%" alt="Halftone illustration of two hands reaching toward each other inside a retro PROJECT EXE window" />
+<img src="./banner.jpg" width="100%" alt="Ayushi's Banner" />
 
 # Hi, I'm Ayushi 👋
 
