@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="![Uploading image.png…]()
+<img src="Human after all 🤷.png…]()
 " width="100%" alt="Halftone illustration of two hands reaching toward each other inside a retro PROJECT EXE window" />
 
 # Hi, I'm Ayushi 👋
