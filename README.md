@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/141246966%3Fv%3D4&w=220&h=220&fit=cover&mask=circle" width="160" height="160" alt="Ayushi" />
+<img src="./banner.jpg" width="100%" alt="Halftone illustration of two hands reaching toward each other inside a retro PROJECT EXE window" />
 
 # Hi, I'm Ayushi 👋
 
